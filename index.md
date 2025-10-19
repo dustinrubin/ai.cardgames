@@ -28,7 +28,7 @@ My plan is to start with simpler card games and progressively tackle more comple
 
 ## Coming Next: Fox in the Forest
 
-In my next post, I'll be building a game engine for **Fox in the Forest**, a simple two-player trick-taking card game. This is the perfect starting point - it has all the core challenges of card games (imperfect information, strategic decision-making) but with a small enough state space to build and test quickly.
+In my next post, I'll be building a game engine for **The Fox in the Forest**, a simple two-player trick-taking card game. This is the perfect starting point - it has all the core challenges of card games (imperfect information, strategic decision-making, unique cards with special rules) but with a small enough state space to build and test quickly.
 
 I'll be documenting the process of using AI-assisted coding to rapidly build the engine, and then we'll see how different AI approaches perform at learning to play it well.
 
