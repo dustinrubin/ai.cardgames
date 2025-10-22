@@ -3,6 +3,12 @@ layout: post
 title: "Building a RL Environment for The Fox in the Forest"
 date: 2025-10-20
 ---
+
+# Summary
+
+Implmeneted The Fox in the Forest in rust using AI Agent coding to get an inital environment and test using automated AI assistance for these problems. It worked well and the environment runs fast.  
+
+
 # The Fox in the Forest 
 The Fox in the Forest is a well rated 2 player trick taking card game. In technical terms, it is a 2 player zero sum Partially Observable Stochastic Game (POSG) and the solution concept is to find a nash equalibrim. It has elements of bluffing and cards with special effects similar to Trading Card Games (TCG). It is much simpler than TCG with a small fixed card pool. This will be a good game to test ai assisted coding and Deep Renforcemnt Leaning (DRL) methods before moving on to more complex TCGs. This ariticle will talk about the coding and creation of the environment and consider how this might be expanded to more complex games.  
 
