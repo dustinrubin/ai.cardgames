@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: AI for Trading Card Games
 description: Building AI engines that play trading card games at expert level
+baseurl: /ai.cardgames
+url: https://dustinrubin.github.io
