@@ -4,8 +4,6 @@ title: "Building a RL Environment for The Fox in the Forest"
 date: 2025-10-20
 ---
 
-# Summary
-
 Implemented The Fox in the Forest in Rust using AI-assisted coding to create an initial environment and tests. The AI assistance worked well and the environment achieves over 70,000 games/second and has features for RL self play.  
 
 
